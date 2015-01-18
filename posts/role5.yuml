@@ -1,0 +1,14 @@
+[Employees|all|create();read();find();update();destroy){bg:yellow}]<1-*>[Employee{bg:yellow}]
+
+[EmployeeEditor{bg:blue}]<1-*>[Employee]
+
+[EmployeeDB{bg:red}]<1-*>[Employee]
+
+[Constraint]-configures<->[EmployeeDB]
+[Constraint]-configures<->[Employee]
+[Constraint||eval()]^[Some]
+[Some]^[And]
+[Some]^[Or]
+[Some]^[Not]
+[Some]-sub<1-*>[Constraint]
+[Constraint]^[One|attr;op;value]
