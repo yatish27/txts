@@ -1,0 +1,3 @@
+[Factory|all|create();read();update();find();destroy){bg:orange}]1-*>[Thing]
+
+[Employees{bg:yellow}]1-*>[Employee{bg:yellow}]

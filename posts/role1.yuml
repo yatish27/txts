@@ -1,0 +1,9 @@
+[Student]^[AppliedStudent]
+[Student]^[EnrolledStudent]
+[Student]^[SuspendedStudent]
+[Student]^[GraduateStudent]
+[Student]^[FailedStudent]
+
+[AppliedStudent]->[EnrolledStudent]
+[SuspendedStudent]->[FailedStudent]
+[EnrolledStudent]1-0-1>[GraduateStudent]

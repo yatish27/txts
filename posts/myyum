@@ -1,0 +1,4 @@
+for i in $*; do
+    cat $i.yuml | yuml -o $i.png 
+    eog $i.png
+done

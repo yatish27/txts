@@ -1,0 +1,11 @@
+[Student|name;address;]->[Role]
+
+[Role]^[AppliedStudent]
+[Role]^[EnrolledStudent]
+[Role]^[SuspendedStudent]
+[Role]^[GraduateStudent]
+[Role]^[FailedStudent]
+
+[AppliedStudent]->[EnrolledStudent]
+[SuspendedStudent]->[FailedStudent]
+[EnrolledStudent]->[GraduateStudent]
