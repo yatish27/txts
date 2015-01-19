@@ -4,6 +4,8 @@
 
 # Kumar Utsav
 
+<center><img width=200 src="../img/DP.jpg"></center>
+
 - I hail from New Delhi, India.
 - I am pursuing Masters in Computer Science.
 - Not an expert coder, but that is what I am here to learn.
