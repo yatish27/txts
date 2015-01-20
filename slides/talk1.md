@@ -2,15 +2,41 @@
 % Ankit Bhandari, Bhaswanath Kadapagunta, Kumar Utsav, Rohit Arora, Yatish Mehta
 % January 20th, 2015
 
+# Ankit Bhandari
+
+# Bhaswanth Kadapagunta
+
 # Kumar Utsav
 
-<center><img width=200 src="../img/DP.jpg"></center>
+<center>
+  <img width=200 src="../img/Utsav.jpg">
+</center>
 
 - I hail from New Delhi, India.
 - I am pursuing Masters in Computer Science.
 - Not an expert coder, but that is what I am here to learn.
 - [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
 
+# Rohit Arora
+
+# Yatish Mehta
+
+<center>
+  <img width=200 src="../img/Yatish.jpg">
+</center>
+
+- I am from Pune, India.
+- Masters in Computer Science
+- FOSS supporter, Blogger, Traveller, Wantrepreneur 
+- Known on the internet as @yatish27
+
+# StackOverflow
+
+- //StackOverflow 
+
+# StackConnect
+
+- //What is the project 
 # Two Approaches
 
 + Chrome Extesions:
@@ -26,5 +52,5 @@
     + Uses Javascript, HTML and CSS.
     + Based on Jetpack project which provides an easy way to create add-ons for Firefox and it heavily borrows from CommonJS.
     + Jetpack extensions are actually compiled to XPI(user installable file) which would mean compiling and reloading the extension, which is a tedious task. 
-    + Basic behavior of extension is described in package.json file.  
+    + Basic behavior of extension is described in package.json file.
     + Debugging is comparitively hard.
