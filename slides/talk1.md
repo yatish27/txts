@@ -18,6 +18,14 @@
 - [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
 
 # Rohit Arora
+<center>
+  <img width=200 src="../img/rohit.jpg">
+</center>
+
+- Person in this picture is a Painter, Numismatist, Cook and Dreamer.
+- This person is learning to use Open Source Technologies.
+- You can find this person in Raleigh, North Carolina.
+- [My SlideShare Account](http://www.slideshare.net/akrish)
 
 # Yatish Mehta
 
