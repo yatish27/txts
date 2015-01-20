@@ -16,7 +16,7 @@
   <img width=200 src="../img/bhashwanth.jpg">
 </center>
 
-- I'm from Chittoor, India
+- I am from Chittoor, India
 - Currently in first year of Masters program
 - love to play tennis, watch movies
 - [https://github.com/bhashwanth](https://github.com/bhashwanth)
@@ -27,7 +27,7 @@
   <img width=200 src="../img/Utsav.jpg">
 </center>
 
-- I hail from New Delhi, India.
+- I am from New Delhi, India.
 - I am pursuing Masters in Computer Science.
 - Not an expert coder, but that is what I am here to learn.
 - [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
@@ -40,7 +40,7 @@
 - Person in this picture is a Painter, Numismatist, Cook and Dreamer.
 - This person is learning to use Open Source Technologies.
 - You can find this person in Raleigh, North Carolina.
-- [My SlideShare Account](http://www.slideshare.net/akrish)
+- [His SlideShare Account](http://www.slideshare.net/akrish)
 
 # Yatish Mehta
 
@@ -51,12 +51,11 @@
 - I am from Pune, India.
 - Masters in Computer Science
 - FOSS supporter, Blogger, Traveller, Wantrepreneur 
-- Known on the internet as @yatish27
+- Known on the internet as \@yatish27
 
 # StackOverflow
 
-+ Stack Overflow is a question and answer site for professional and enthusiast programmers.
-
+- StackOverflow is a question and answer site for professional and enthusiast programmers.
 + Typical one day Stack Overflow usage:
     + 148,084,883 HTTP requests to load balancer
     + 36,095,312 of those were page loads
@@ -90,7 +89,9 @@
 
 # User Flow
 
-<img align=centre src="../img/dot/dot1.png">
+<center>
+<img src="../img/dot/dot1.png">
+</center>
 
 # Design Mocks
 
@@ -103,6 +104,7 @@
 - First is the Login Screen of the StackConnect Plugin.
 - Second is the Notification Screen of the plugin.
 - Third is the Editing Screen of the plugin.
+- Click on the Screens for larger view.
 
 # GNU plot
 <img align=right src="../img/plot/plot1.png">
@@ -122,8 +124,7 @@
 25-34        167
 35-44        121
 45-54        81
-55-64        42
-65+          24
+55+          66
 </center>
 
 Likelihood meaning:
@@ -131,6 +132,14 @@ Likelihood meaning:
 - Index of 200~ any random user is twice as likely to be in this category
 - Index of 50~ any random user is half as likely to be in this category
 
-# Special  relativity equation
+# Project Effort Estimation Model
 
-- $t' = t\frac{1}{\sqrt(1-v^2/c^2)}$
+- $E = [\frac{LOC*B^(.333)}{P}]^3*(\frac{1}{t^4})$
+- E = Project effort measured in person-months or person-years
+- LOC = a Lines of Code estimate for the project
+- t = Length of project measured in months or years
+- B = Special skills factor
+- P = Productivity Parameter
+
+# References
+
