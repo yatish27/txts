@@ -2,6 +2,6 @@ digraph{
   "Go to StackOverflow" -> "Ask a Question"
   "Go to StackOverflow" -> "Answer someone's Question"
   "Ask a Question" -> "Receive Notifications via Browser Plugin"
-  "Answer someone's Question" -> "Receive Notifications via Browser Plugin"
-  "Receive Notifications via Browser Plugin" -> "Respond via Plugin";
+  "Answer someone's Question" -> "Receive Notification via Browser Plugin"
+  "Receive Notification via Browser Plugin" -> "Respond via Plugin";
 }
