@@ -33,6 +33,14 @@
 - [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
 
 # Rohit Arora
+<center>
+  <img width=200 src="../img/rohit.jpg">
+</center>
+
+- Person in this picture is a Painter, Numismatist, Cook and Dreamer.
+- This person is learning to use Open Source Technologies.
+- You can find this person in Raleigh, North Carolina.
+- [My SlideShare Account](http://www.slideshare.net/akrish)
 
 # Yatish Mehta
 
@@ -80,6 +88,14 @@
 
 # Design Mocks
 
-- // Add mock images
+<a href="../img/Login.png"><img align="left" src="../img/Login.png" width=365 height=260></a>
+<img src="../img/arrow.png" width=50 height=50>
+<a href="../img/Notification.png"><img src="../img/Notification.png" width=365 height=260></a>
+<img src="../img/arrow.png" width=50 height=50>
+<a href="../img/Editing.png"><img align="right" src="../img/Editing.png" width=365 height=260></a>
+
+- First is the Login Screen of the StackConnect Plugin.
+- Second is the Notification Screen of the plugin.
+- Third is the Editing Screen of the plugin.
 
 # //Can add some equation related slide
