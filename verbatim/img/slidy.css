@@ -98,7 +98,7 @@ div.slide {
   left: 0;
   right: 0;
   line-height: 120%;
-  background-color: transparent;
+  background-color: #CCCCFF;
 }
 
 div.background {
@@ -133,7 +133,7 @@ div.slide h1 {
   font-size: 160%;
   line-height: 1.2em;
   xbackground: transparent;
-  background-color: blue;
+  background-color: #63639E;
 	color: white;
 
   padding-left: 10px;
