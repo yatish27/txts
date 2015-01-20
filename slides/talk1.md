@@ -6,6 +6,15 @@
 
 # Bhaswanth Kadapagunta
 
+<center>
+  <img width=200 src="../img/bhashwanth.jpg">
+</center>
+
+- I'm from Chittoor, India
+- Currently in first year of Masters program
+- love to play tennis, watch movies
+- [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
+
 # Kumar Utsav
 
 <center>
@@ -15,7 +24,7 @@
 - I hail from New Delhi, India.
 - I am pursuing Masters in Computer Science.
 - Not an expert coder, but that is what I am here to learn.
-- [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
+- [https://github.com/bhashwanth](https://github.com/bhashwanth)
 
 # Rohit Arora
 
