@@ -82,5 +82,6 @@
 - First is the Login Screen of the StackConnect Plugin.
 - Second is the Notification Screen of the plugin.
 - Third is the Editing Screen of the plugin.
+- Click on the Screens for larger view.
 
 # //Can add some equation related slide
