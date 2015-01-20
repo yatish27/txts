@@ -1,6 +1,5 @@
-digraph {
-  saturday -> sunday 
-  sunday  -> weekday [label="sad"];
-  weekday -> saturday [label="happy"];
-  
+digraph{
+  "Go to stackoverflow" -> "write a question"
+  "write a question" -> "receive notification on reply"
+  "receive notification on reply" -> "respond from the extension";
 }

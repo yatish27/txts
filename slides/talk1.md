@@ -90,7 +90,7 @@
 
 # User Flow
 
-- // Add a Graph showing a userflow using DOT
+<img align=centre src="../img/dot/dot1.png">
 
 # Design Mocks
 
@@ -104,4 +104,33 @@
 - Second is the Notification Screen of the plugin.
 - Third is the Editing Screen of the plugin.
 
-# //Can add some equation related slide
+# GNU plot
+<img align=right src="../img/plot/plot1.png">
+
+- Parametric equations are:
+
+- x = r cos(t) y = r sin(t) z = t
+
+# Stack overflow user statistics
+
+<center>
+
+  Age       Likelihood 
+-------     ----------
+< 18         65
+18-24        133
+25-34        167
+35-44        121
+45-54        81
+55-64        42
+65+          24
+</center>
+
+Likelihood meaning:
+
+- Index of 200~ any random user is twice as likely to be in this category
+- Index of 50~ any random user is half as likely to be in this category
+
+# Special  relativity equation
+
+- $t' = t\frac{1}{\sqrt(1-v^2/c^2)}$
