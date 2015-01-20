@@ -9,16 +9,22 @@
 - I hail from New Delhi, India.
 - I am pursuing Masters in Computer Science.
 - Not an expert coder, but that is what I am here to learn.
+- [https://github.com/kumar-utsav](https://github.com/kumar-utsav)
 
 # Two Approaches
 
 + Chrome Extesions:
     + Uses JavaScript, HTML and CSS.
     + Based on Greasemonkey way of building things.
-    + Making changes to code requires hitting a reload button on the "Manage Extensions" to ensure that the latest code is running. 
+    + Making changes to code requires hitting a reload button on the "Manage Extensions" to ensure that the latest code is running, which is quite handy while make changes to the many times. 
+    + Basic behavior of extension is described in manifest.json file.
+    + Chrome provides Chrome Developer Tools which makes debugging comparitively easy.
+
+# Two Approaches
 	
 + Firefox Add-ons: 
     + Uses Javascript, HTML and CSS.
     + Based on Jetpack project which provides an easy way to create add-ons for Firefox and it heavily borrows from CommonJS.
-    + Jetpack extensions are actually compiled to XPI which would mean compiling and reloading the extension.  
-
+    + Jetpack extensions are actually compiled to XPI(user installable file) which would mean compiling and reloading the extension, which is a tedious task. 
+    + Basic behavior of extension is described in package.json file.  
+    + Debugging is comparitively hard.
