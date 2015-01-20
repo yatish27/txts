@@ -3,6 +3,12 @@
 % January 20th, 2015
 
 # Ankit Bhandari
+<center>
+<img src="../img/Ankit.jpg" height="400" width="200">
+</center>
+
+- Pursuing Masters in Computer Science.
+- Love food and traveling.
 
 # Bhaswanth Kadapagunta
 
