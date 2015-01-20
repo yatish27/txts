@@ -1,14 +1,22 @@
+<<<<<<< HEAD
+
+# Ankit Bhandari
+
+<img align=center src="../img/Ankit.jpg" height="400" width="250">
+
+- Pursuing Masters in Computer Science.
+- Love food and traveling.
+
+
+
+
+
+=======
 % StackConnect
 % Ankit Bhandari, Bhaswanath Kadapagunta, Kumar Utsav, Rohit Arora, Yatish Mehta
 % January 20th, 2015
 
 # Ankit Bhandari
-<center>
-<img src="../img/Ankit.jpg" height="400" width="200">
-</center>
-
-- Pursuing Masters in Computer Science.
-- Love food and traveling.
 
 # Bhaswanth Kadapagunta
 
@@ -60,3 +68,4 @@
     + Jetpack extensions are actually compiled to XPI(user installable file) which would mean compiling and reloading the extension, which is a tedious task. 
     + Basic behavior of extension is described in package.json file.
     + Debugging is comparitively hard.
+>>>>>>> 0757eeaf68b1bf9534bb1298927f47762c23bf3e
