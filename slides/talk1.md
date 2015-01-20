@@ -3,8 +3,23 @@
 % January 20th, 2015
 
 # Ankit Bhandari
+<center>
+  <img src="../img/Ankit.jpg" width="200">
+</center>
+
+- Pursuing Masters in Computer Science.
+- Love food and traveling.
 
 # Bhaswanth Kadapagunta
+
+<center>
+  <img width=200 src="../img/bhashwanth.jpg">
+</center>
+
+- I'm from Chittoor, India
+- Currently in first year of Masters program
+- love to play tennis, watch movies
+- [https://github.com/bhashwanth](https://github.com/bhashwanth)
 
 # Kumar Utsav
 
@@ -40,8 +55,14 @@
 
 # StackOverflow
 
-- //StackOverflow description
-- //Some table regarding the statistics about StackOverFlow
++ Stack Overflow is a question and answer site for professional and enthusiast programmers.
+
++ Typical one day Stack Overflow usage:
+    + 148,084,883 HTTP requests to load balancer
+    + 36,095,312 of those were page loads
+    + 833,992,982,627 bytes (776 GB) of HTTP traffic sent
+    + 286,574,644,032 bytes (267 GB) total received
+      
 
 # StackConnect
 
@@ -69,7 +90,7 @@
 
 # User Flow
 
-- // Add a Graph showing a userflow using DOT
+<img align=centre src="../img/dot/dot1.png">
 
 # Design Mocks
 
@@ -84,4 +105,33 @@
 - Third is the Editing Screen of the plugin.
 - Click on the Screens for larger view.
 
-# //Can add some equation related slide
+# GNU plot
+<img align=right src="../img/plot/plot1.png">
+
+- Parametric equations are:
+
+- x = r cos(t) y = r sin(t) z = t
+
+# Stack overflow user statistics
+
+<center>
+
+  Age       Likelihood 
+-------     ----------
+< 18         65
+18-24        133
+25-34        167
+35-44        121
+45-54        81
+55-64        42
+65+          24
+</center>
+
+Likelihood meaning:
+
+- Index of 200~ any random user is twice as likely to be in this category
+- Index of 50~ any random user is half as likely to be in this category
+
+# Special  relativity equation
+
+- $t' = t\frac{1}{\sqrt(1-v^2/c^2)}$
