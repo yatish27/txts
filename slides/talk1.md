@@ -4,7 +4,7 @@
 
 # Ankit Bhandari
 <center>
-<img src="../img/Ankit.jpg" height="400" width="200">
+  <img src="../img/Ankit.jpg" width="200">
 </center>
 
 - Pursuing Masters in Computer Science.
@@ -55,8 +55,14 @@
 
 # StackOverflow
 
-- //StackOverflow description
-- //Some table regarding the statistics about StackOverFlow
++ Stack Overflow is a question and answer site for professional and enthusiast programmers.
+
++ Typical one day Stack Overflow usage:
+    + 148,084,883 HTTP requests to load balancer
+    + 36,095,312 of those were page loads
+    + 833,992,982,627 bytes (776 GB) of HTTP traffic sent
+    + 286,574,644,032 bytes (267 GB) total received
+      
 
 # StackConnect
 
