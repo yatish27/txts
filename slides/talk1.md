@@ -12,6 +12,15 @@
 
 # Bhaswanth Kadapagunta
 
+<center>
+  <img width=200 src="../img/bhashwanth.jpg">
+</center>
+
+- I'm from Chittoor, India
+- Currently in first year of Masters program
+- love to play tennis, watch movies
+- [https://github.com/bhashwanth](https://github.com/bhashwanth)
+
 # Kumar Utsav
 
 <center>
