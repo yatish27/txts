@@ -40,11 +40,15 @@
 
 # StackOverflow
 
-- //StackOverflow 
+- //StackOverflow description
+- //Some table regarding the statistics about StackOverFlow
 
 # StackConnect
 
-- //What is the project 
+- StackOverflow is one of the fastest way for developers to get their questions answered.
+- Instead of checking your SO inbox regularly to check for a reply for your asked question, there will be browser plugin(StackConnect) which will provide in browser notifications.
+- Developer can monitor his questions, reply to comments and search for necessary terms directy from the plugin, rather than sign in to StackOverflow everytime.
+
 # Two Approaches
 
 + Chrome Extesions:
@@ -55,10 +59,20 @@
     + Chrome provides Chrome Developer Tools which makes debugging comparitively easy.
 
 # Two Approaches
-	
+
 + Firefox Add-ons: 
     + Uses Javascript, HTML and CSS.
     + Based on Jetpack project which provides an easy way to create add-ons for Firefox and it heavily borrows from CommonJS.
     + Jetpack extensions are actually compiled to XPI(user installable file) which would mean compiling and reloading the extension, which is a tedious task. 
     + Basic behavior of extension is described in package.json file.
     + Debugging is comparitively hard.
+
+# User Flow
+
+- // Add a Graph showing a userflow using DOT
+
+# Design Mocks
+
+- // Add mock images
+
+# //Can add some equation related slide
